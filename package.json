@@ -1,0 +1,40 @@
+{
+  "name": "object-event",
+  "version": "0.0.0",
+  "main": "lib/object-event.js",
+  "description": "Partly based on DOM Events. Provides similar methods to addEventListener for plain objects.",
+  "homepage": "https://github.com/ileri/object-event",
+  "bugs": "https://github.com/ileri/object-event/issues",
+  "author": {
+    "name": "Malte-Maurice Dreyer",
+    "email": "dreyer.maltem@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ileri/object-event"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "object-event",
+    "object",
+    "event",
+    "target",
+    "event target"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-traceur": "^0.2.0",
+    "jshint-stylish": "^0.2.0",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "traceur": "0.0.55"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
