@@ -7,25 +7,7 @@
 
 Install the module with: `npm install object-event`
 
-```js
-var object-event = require('object-event');
-object-event.awesome(); // "awesome"
-```
-
-Install with cli command
-
-```sh
-$ npm install -g object-event
-$ object-event --help
-$ object-event --version
-```
-
-
-```sh
-# creates a browser.js
-$ grunt browserify
-```
-
+_(Coming soon)_
 
 
 ## Documentation
