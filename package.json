@@ -2,7 +2,7 @@
   "name": "object-event",
   "version": "0.0.0",
   "main": "lib/object-event.js",
-  "description": "Partly based on DOM Events. Provides similar methods to addEventListener for plain objects.",
+  "description": "Partially based on DOM Events. Provides similar methods for plain objects.",
   "homepage": "https://github.com/ileri/object-event",
   "bugs": "https://github.com/ileri/object-event/issues",
   "author": {
