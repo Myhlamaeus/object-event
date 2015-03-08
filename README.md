@@ -1,4 +1,4 @@
-# object-event [![Build Status](https://secure.travis-ci.org/ileri/object-event.png?branch=master)](http://travis-ci.org/ileri/object-event)
+# object-event [![Build Status](https://travis-ci.org/ileri/object-event.svg?branch=master)](https://travis-ci.org/ileri/object-event) [![Code Climate](https://codeclimate.com/github/ileri/object-event/badges/gpa.svg)](https://codeclimate.com/github/ileri/object-event)
 
 > Partly based on DOM Events. Provides similar methods to addEventListener for plain objects.
 
