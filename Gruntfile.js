@@ -10,6 +10,10 @@ module.exports = function (grunt) {
 
     // Project configuration.
     grunt.initConfig({
+        config: {
+            main: "object-event",
+            global: "objectEvent"
+        },
         nodeunit: {
             files: ["test/bootstrap.js"]
         },
@@ -22,7 +26,7 @@ module.exports = function (grunt) {
                 src: "Gruntfile.js"
             },
             lib: {
-                src: ["object-event.js", "lib/*.js"]
+                src: ["<%= config.main %>.js", "lib/*.js"]
             },
             test: {
                 src: ["test/**/*.js"]
