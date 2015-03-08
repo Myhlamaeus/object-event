@@ -1,0 +1,24 @@
+{
+  "name": "object-event",
+  "main": "object-event.js",
+  "version": "0.0.1-a",
+  "homepage": "https://github.com/ileri/object-event",
+  "authors": [
+    "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "object",
+    "event"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
