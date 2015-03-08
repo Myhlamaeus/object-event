@@ -31,7 +31,7 @@
     "target",
     "event target"
   ],
-  "license": "MIT",
+  "license": "GPL-3.0",
   "main": "dist/cjs.js",
   "repository": {
     "type": "git",
