@@ -2,7 +2,7 @@
 
 "use strict";
 
-import {Event, Target} from "../lib/object-event.js";
+import {Event, Target} from "../object-event.js";
 
 module.exports = {
     test: {

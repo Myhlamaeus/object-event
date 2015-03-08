@@ -1,7 +1,7 @@
 "use strict";
 
-import {initEvent} from "./event";
-import {initTarget} from "./target";
+import {initEvent} from "./lib/event";
+import {initTarget} from "./lib/target";
 
 var pTarget = Symbol("target"),
     pEventPhase = Symbol("event phase"),
@@ -10,5 +10,5 @@ var pTarget = Symbol("target"),
 initEvent(pTarget, pEventPhase, pCurrentTarget);
 initTarget(pTarget, pEventPhase, pCurrentTarget);
 
-export {Event} from "./event";
-export {Target} from "./target";
+export {Event} from "./lib/event";
+export {Target} from "./lib/target";
