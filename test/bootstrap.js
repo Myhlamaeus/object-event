@@ -24,7 +24,6 @@
 
 var traceur = require("traceur");
 
-traceur.options.blockBinding = true;
 traceur.require.makeDefault(function(filename) {
   // don't transpile our dependencies, just our app
   // console.log(filename);
