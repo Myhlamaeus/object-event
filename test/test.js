@@ -1,7 +1,5 @@
 /* jshint node:true */
 
-"use strict";
-
 import {Event, Target} from "../object-event.js";
 
 module.exports = {

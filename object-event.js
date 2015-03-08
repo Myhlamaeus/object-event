@@ -1,5 +1,3 @@
-"use strict";
-
 import {initEvent} from "./lib/event";
 import {initTarget} from "./lib/target";
 
