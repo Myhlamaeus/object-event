@@ -15,7 +15,7 @@ module.exports = {
                 });
             target.createPromise("test").then(function(e) {
                 test.equal(e.type, evt.type);
-                console.log(e);
+                // console.log(e);
                 test.done();
             });
             target.dispatchEvent(evt);
