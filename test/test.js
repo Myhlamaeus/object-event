@@ -2,7 +2,7 @@
 
 import {Event, Target} from "../object-event.js";
 
-module.exports = {
+export default {
     test: {
         test: function(test) {
             var target = new Target(),
