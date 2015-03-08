@@ -1,7 +1,7 @@
 {
   "name": "object-event",
   "description": "Partially based on DOM Events. Provides similar methods for plain objects.",
-  "version": "0.0.1-a",
+  "version": "0.1.0",
   "author": {
     "name": "Malte-Maurice Dreyer",
     "email": "dreyer.maltem@gmail.com"

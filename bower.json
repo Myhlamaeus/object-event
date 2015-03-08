@@ -2,7 +2,7 @@
   "name": "object-event",
   "description": "Partially based on DOM Events. Provides similar methods for plain objects.",
   "main": "object-event.js",
-  "version": "0.0.1-a",
+  "version": "0.1.0",
   "homepage": "https://github.com/ileri/object-event",
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
