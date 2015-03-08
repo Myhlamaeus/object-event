@@ -1,7 +1,7 @@
 import {initEvent} from "./lib/event";
 import {initTarget} from "./lib/target";
 
-var pTarget = Symbol("target"),
+const pTarget = Symbol("target"),
     pEventPhase = Symbol("event phase"),
     pCurrentTarget = Symbol("current target");
 
