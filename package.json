@@ -4,20 +4,15 @@
   "version": "0.2.0",
   "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
   "bugs": "https://github.com/ileri/object-event/issues",
-  "dependencies": {
-    "chai": "^2.3.0",
-    "gulp-mocha": "^2.0.1"
-  },
   "devDependencies": {
     "babel": "^5.2.17",
+    "chai": "^2.3.0",
     "gulp": "^3.8.11",
     "gulp-babel": "^5.1.0",
+    "gulp-mocha": "^2.0.1",
     "gulp-replace": "^0.5.3",
     "gulp-sourcemaps": "^1.5.2"
   },
-  "files": [
-    "lib"
-  ],
   "homepage": "https://github.com/ileri/object-event",
   "keywords": [
     "event",
