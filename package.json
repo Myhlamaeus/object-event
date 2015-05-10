@@ -27,7 +27,7 @@
     "target"
   ],
   "license": "GPL-3.0",
-  "main": "dist/cjs.js",
+  "main": "dist/object-event.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ileri/object-event"
