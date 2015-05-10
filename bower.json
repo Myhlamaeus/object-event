@@ -1,25 +1,25 @@
 {
   "name": "object-event",
   "description": "Partially based on DOM Events. Provides similar methods for plain objects.",
-  "main": "object-event.js",
   "version": "0.1.0",
-  "homepage": "https://github.com/ileri/object-event",
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
   ],
-  "moduleType": [
-    "es6"
-  ],
-  "keywords": [
-    "object",
-    "event"
-  ],
-  "license": "GPL-3.0",
+  "homepage": "https://github.com/ileri/object-event",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
+  ],
+  "keywords": [
+    "object",
+    "event"
+  ],
+  "license": "GPL-3.0",
+  "main": "object-event.js",
+  "moduleType": [
+    "es6"
   ]
 }
