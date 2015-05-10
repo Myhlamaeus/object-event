@@ -17,7 +17,7 @@
     "object",
     "event"
   ],
-  "license": "GPL-3.0",
+  "license": "MIT",
   "main": "object-event.js",
   "moduleType": [
     "es6"
